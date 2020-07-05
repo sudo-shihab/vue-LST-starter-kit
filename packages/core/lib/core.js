@@ -2,5 +2,5 @@
 
 module.exports = core;
 
-// public fun
+// public function
 function core() {}
