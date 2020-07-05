@@ -2,5 +2,5 @@
 
 module.exports = core;
 
-// public function
+// public functions
 function core() {}
