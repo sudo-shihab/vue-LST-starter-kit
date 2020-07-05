@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "@test/core",
   "version": "0.0.2",
   "description": "this package will contain the entry js and css files that is required for base config to be made on component lib",
   "author": "sudo-shihab <contact.shihab.me@gmail.com>",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "49b19775e1de0899c9b2b15829b0153da3749860"
 }
