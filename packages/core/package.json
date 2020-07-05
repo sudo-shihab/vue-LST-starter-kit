@@ -1,6 +1,6 @@
 {
   "name": "@test/core",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "this package will contain the entry js and css files that is required for base config to be made on component lib",
   "author": "sudo-shihab <contact.shihab.me@gmail.com>",
   "homepage": "",
