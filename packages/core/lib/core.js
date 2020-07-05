@@ -2,6 +2,4 @@
 
 module.exports = core;
 
-function core() {
-  // TODO
-}
+function core() {}
