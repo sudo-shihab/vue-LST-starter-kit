@@ -1,9 +1,12 @@
 {
-  "name": "@test/core",
+  "name": "@sudo-shihab/core",
   "version": "0.0.14",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "this package will contain the entry js and css files that is required for base config to be made on component lib",
   "author": "sudo-shihab <contact.shihab.me@gmail.com>",
-  "homepage": "",
+  "homepage": "https://github.com/sudo-shihab/vue-LST-starter-kit.git",
   "license": "ISC",
   "main": "lib/core.js",
   "directories": {
@@ -13,9 +16,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/sudo-shihab/vue-LST-starter-kit.git"
