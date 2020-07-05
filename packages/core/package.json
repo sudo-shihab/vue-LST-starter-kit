@@ -16,8 +16,12 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sudo-shihab/vue-LST-starter-kit.git"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "6b2b250ca1a4e7f1ad662b80845c948eedeb1fb7"
+  "gitHead": "5ea01f7995e2e1f49d83be004be8642c0b80bcab"
 }
