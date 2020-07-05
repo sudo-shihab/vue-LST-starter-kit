@@ -1,0 +1,19 @@
+{
+  "name": "core",
+  "version": "0.0.1",
+  "description": "this package will contain the entry js and css files that is required for base config to be made on component lib",
+  "author": "sudo-shihab <contact.shihab.me@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
