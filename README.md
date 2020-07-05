@@ -1,29 +1,47 @@
 # vue-storylernawind
 
-## Project setup
+Starter Kit That powers Vue, Lerna, Storybook and Tailwind (LST) scaffold based on vue cli 4
+
+## Prerequisists
+
+NODE, NPM ,YARN, LERNA
+
+## Developed On
+
+Vue CLI 4 and above,
+yarn as a package manager,
+Node version 12 and above
+
+## Install
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+## Usage
+
+### To Start Your componen driven Development Environment [ CDDE ] using storybook , run the following command
+
 ```
-yarn serve
+yarn storybook:serve
 ```
 
-### Compiles and minifies for production
+### To add a new Package
+
 ```
-yarn build
+lerna create <package name>
 ```
 
-### Run your unit tests
+### To publish Packages
+
 ```
-yarn test:unit
+lerna publish
+
+or
+
+yarn publish-packages
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+### To change the Lerna Mode [ by default its set to `independent`] access
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+lerna.json
