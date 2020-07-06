@@ -1,6 +1,6 @@
 {
-  "name": "@sudo-shihab/core",
-  "version": "0.1.0",
+  "name": "@npm_from_shihab/vuegram-ds-core",
+  "version": "0.0.1",
   "publishConfig": {
     "access": "public"
   },
@@ -23,5 +23,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "206b287267a3e307b348662360913c20c2f9241a"
+  "gitHead": "18b3b69234bb5c006c6aebf5f1c7d82dc36130b1"
 }
