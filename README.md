@@ -42,6 +42,8 @@ or
 yarn publish-packages
 ```
 
-### To change the Lerna Mode [ by default its set to `independent`] access
+#### To change the Lerna Mode [ by default its set to `independent`] access `lerna.json`
 
-lerna.json
+## NOTE
+
+#### This consists of a sample package called '@npm_from_shihab/example-package-core`, rename the package with <your-npm-user-name> / <package_name> or you can opt to delete it and start a new package using`lerna create` cmd.
